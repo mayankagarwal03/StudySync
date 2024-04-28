@@ -1,0 +1,1 @@
+This project creates a website called study sync.
